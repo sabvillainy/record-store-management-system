@@ -50,6 +50,8 @@ The Sales Panel aims to process the products that customers want to buy at the c
 - Just incase, Visual Studio 22 was used.
 - Create Microsoft SQL Server Database File (SqlClient) with the tables below.
 
+**(I already added syntaxes of the SQL tables to the repository. It's not a SQL script, it's a .sql file that including syntaxes of the SQL tables. I recommend using Visual Studio Code to open that file. After opening the file, you can easily copy-paste syntaxes to your database's query.)**
+
 ![image](https://github.com/sabvillainy/record-store-management-system/assets/163596339/907cdcb5-2939-4a95-99b8-ca0840b5bfac)
 
 ![image](https://github.com/sabvillainy/record-store-management-system/assets/163596339/fbc6bac6-571f-49bb-ac38-fb0b4d96a72a)
