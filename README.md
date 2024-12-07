@@ -23,7 +23,6 @@ Allows only admins to register. Employee registrations are done by admins throug
 
 ### Admin Panel
 - Add, edit and delete genres, artists exc. details for the products.
-- Add, edit and delete products details.
 - Add, edit and delete employee details.
 
 ![image](https://github.com/sabvillainy/record-store-management-system/assets/163596339/04a06d3e-b511-4bbb-ba5f-5c8883446415)
